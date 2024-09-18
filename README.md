@@ -1,0 +1,2 @@
+# Smit
+code for beginner
